@@ -1,182 +1,195 @@
 <h1 align="center">Hi 👋, I'm Esneyder Ibarra</h1>
 
-<h3 align="center">
-Systems Engineer · Frontend & Full Stack Developer
-</h3>
+### Ingeniero de Sistemas · Desarrollador Frontend & Full Stack
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esneyder-ibarra-rosero)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esneydribarra1970@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/printEsneyder)
+
+---
+
+## Sobre mí
+
+Soy Ingeniero de Sistemas de Colombia, apasionado por el desarrollo de software y la creación de soluciones digitales que resuelven problemas reales. Me enfoco en el desarrollo frontend, aplicaciones móviles, interfaces de usuario y soluciones full stack.
+
+Tengo experiencia trabajando con Flutter, Dart, React, Laravel, Firebase, JavaScript, TypeScript, Node.js y bases de datos relacionales y NoSQL.
+
+Me interesa especialmente:
+
+- Desarrollo frontend y de interfaces
+- Aplicaciones móviles y web
+- Desarrollo Full Stack
+- Resolución de problemas y arquitectura de software
+- Aplicaciones basadas en Firebase
+- Integración y visualización de datos
+- Trabajo en equipo y aprendizaje continuo
+
+---
+
+## Nivel de experiencia
+
+| Área | Nivel |
+|------|-------|
+| Frontend | Flutter · React · HTML · CSS |
+| Mobile | Flutter · Dart |
+| Backend | Laravel · Node.js · Firebase |
+| Bases de datos | Firestore · MySQL · MongoDB · PostgreSQL |
+| Arquitectura | Clean Architecture · Riverpod |
+| Herramientas y Cloud | Git · GitHub · Firebase · GCP · AWS |
+
+---
+
+## Tecnologías
+
+**Lenguajes**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frameworks y Librerías**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Bases de datos y Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/esneyder-ibarra-rosero">
-    <img src="https://img.shields.io/badge/LinkedIn-Esneyder%20Ibarra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:esneyderibarra1970@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/printEsneyder">
-    <img src="https://img.shields.io/badge/GitHub-printEsneyder-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=printEsneyder&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=printEsneyder&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=printEsneyder&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=printEsneyder&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Proyectos destacados
 
-I'm a **Systems Engineer from Colombia** focused on software development, technology and digital solutions.
+### HSound — Plataforma Musical Local
 
-I enjoy transforming ideas and real-world problems into functional software, with particular interest in **frontend development, mobile applications, user interfaces and full-stack solutions**.
+Plataforma móvil y web creada para promover el talento musical de Pasto, Nariño, Colombia. Los artistas pueden crear perfiles, publicar música mediante plataformas externas y crear eventos musicales. Los oyentes pueden descubrir artistas, buscar música, guardar favoritos e interactuar con el contenido.
 
-I have experience working with **Flutter, Dart, React, Laravel, Firebase, JavaScript, TypeScript, Node.js and relational and NoSQL databases**.
+**Tecnologías:** Flutter · Dart · Firebase · Firestore · Firebase Auth · Firebase Storage · Firebase Hosting
 
-I'm especially interested in:
-
-- 🎨 Frontend and UI development
-- 📱 Mobile and web applications
-- ⚙️ Full Stack development
-- 🧩 Problem solving and software architecture
-- 🔥 Firebase-based applications
-- 📊 Data integration and visualization
-- 🤝 Technology, teamwork and continuous learning
+- Repositorio: https://github.com/printEsneyder/HSound-Plataforma-Musical-Pasto
+- Panel Admin: https://hsound-8aad2.web.app/
 
 ---
 
-## 🚀 What I Do
+### FireShots POS
 
-```text
-Frontend Development     ███████████████████░░   Flutter · React · HTML · CSS
-Mobile Development       ██████████████████░░░   Flutter · Dart
-Backend Development      ███████████████░░░░░░   Laravel · Node.js · Firebase
-Database & Data          █████████████░░░░░░░░   Firestore · MySQL · MongoDB · PostgreSQL
-Software Architecture    ██████████████░░░░░░░   Clean Architecture · Riverpod
-Tools & Cloud             ███████████████░░░░░░   Git · GitHub · Firebase · GCP · AWS
+Sistema de punto de venta digital diseñado para el bar Fire Shots en Pasto, Nariño. La plataforma digitaliza pedidos, pagos, inventario, manejo de guardarropa y procesos administrativos.
 
-🛠️ Technologies & Tools
-Languages
-<p> <img src="https://skillicons.dev/icons?i=dart,java,js,ts,python,php,html,css" /> </p>
-Frameworks & Libraries
-<p> <img src="https://skillicons.dev/icons?i=flutter,react,laravel,nodejs,express" /> </p>
-Databases & Cloud
-<p> <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,aws,gcp" /> </p>
-Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker" /> </p>
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=printEsneyder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=printEsneyder&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=printEsneyder&theme=tokyonight&hide_border=true" /> </p>
-🚀 Featured Projects
-🎵 HSound — Local Music Platform
+**Tecnologías:** Flutter Web · Dart · Firebase · Firestore · Firebase Auth · Riverpod · Clean Architecture
 
-A mobile and web platform created to promote musical talent from Pasto, Nariño, Colombia.
+- Repositorio: https://github.com/printEsneyder/FireShots-POS
 
-Artists can create profiles, publish music through external platforms and create musical events, while listeners can discover artists, search for music, save favorites and interact with content.
+---
 
-Technologies:
+### Sábana Digital Enfermería UCI
 
-Flutter Dart Firebase Firestore Firebase Auth Firebase Storage Firebase Hosting
+Aplicación móvil y web desarrollada para la Unidad de Cuidados Intensivos del Hospital Universitario Departamental de Nariño. El sistema permite el registro digital de enfermería, manejo de información clínica y sincronización en tiempo real.
 
-🔗 Repository:
-https://github.com/printEsneyder/HSound-Plataforma-Musical-Pasto
+**Tecnologías:** Flutter · Dart · Firebase · Riverpod
 
-🌐 Admin Panel:
-https://hsound-8aad2.web.app/
+- Repositorio: https://github.com/printEsneyder/sabana-digital-enfermeria-uci
 
-🧾 FireShots POS
+---
 
-A digital Point of Sale system designed for Fire Shots Bar in Pasto, Nariño.
+### MaderAlpes Sistema Web
 
-The platform digitizes orders, payments, inventory, cloakroom management and administrative processes.
+Aplicación web desarrollada para MaderAlpes, empresa dedicada a tableros de muebles, ferretería y soluciones de mobiliario en Nariño. La plataforma combina un sitio web corporativo y un panel administrativo para gestionar productos, categorías y usuarios.
 
-Main features:
+**Tecnologías:** Laravel · PHP · Blade · Bootstrap · Tailwind CSS · SQLite · Vite · jQuery
 
-📱 Digital menu and QR table ordering
-🧾 Real-time order management
-📦 Inventory management
-👕 Digital cloakroom
-💰 Payment management
-📊 Administrative reports
-🔐 Role-based authentication
-⚡ Real-time synchronization
+- Repositorio: https://github.com/printEsneyder/maderalpes-sistema-web
 
-Technologies:
+---
 
-Flutter Web Dart Firebase Firestore Firebase Auth Riverpod Clean Architecture
+### Plataforma de Integración de Datos Académicos
 
-🔗 Repository:
-https://github.com/printEsneyder/FireShots-POS
+Proyecto de integración de datos académicos diseñado para combinar información de múltiples fuentes en una plataforma de visualización centralizada. El sistema integra información de PostgreSQL, MongoDB y archivos CSV mediante servicios backend y presenta la información procesada en un dashboard interactivo en React.
 
-🏥 Digital Nursing Record — ICU
+**Tecnologías:** TypeScript · Node.js · Express · React · Tailwind CSS · PostgreSQL · MongoDB · Recharts
 
-A mobile and web application developed for the Intensive Care Unit (ICU) of the Hospital Universitario Departamental de Nariño.
+- Repositorio: https://github.com/printEsneyder/academic-data-integration-platform
 
-The system supports digital nursing records, clinical information management and real-time synchronization.
+---
 
-Technologies:
+## Educación
 
-Flutter Dart Firebase Riverpod
-
-🔗 Repository:
-https://github.com/printEsneyder/sabana-digital-enfermeria-uci
-
-🏢 MaderAlpes Web System
-
-A web application developed for MaderAlpes, a business dedicated to furniture boards, hardware and furniture solutions in Nariño.
-
-The platform combines a public company website and an administrative panel for managing products, categories and users.
-
-Technologies:
-
-Laravel PHP Blade Bootstrap Tailwind CSS SQLite Vite jQuery
-
-🔗 Repository:
-https://github.com/printEsneyder/maderalpes-sistema-web
-
-📊 Academic Data Integration Platform
-
-An academic data integration project designed to combine information from multiple sources into a centralized visualization platform.
-
-The system integrates information from PostgreSQL, MongoDB and CSV files through backend services and presents the processed information through an interactive React dashboard.
-
-Technologies:
-
-TypeScript Node.js Express React Tailwind CSS PostgreSQL MongoDB Recharts
-
-🔗 Repository:
-https://github.com/printEsneyder/academic-data-integration-platform
-
-🎓 Education
-🎓 Systems Engineering
-
-Universidad Mariana
-Pasto, Nariño — Colombia
+**Ingeniería de Sistemas**  
+Universidad Mariana  
+Pasto, Nariño — Colombia  
 2021 – 2026
 
-📜 Certifications & Courses
-☁️ AWS Academy Cloud Foundations — AWS Academy
-🗄️ Database Construction with MySQL — SENA
-📱 Android Applications with App Inventor — Fundación Telefónica / ProFuturo
-🌐 Software Development, Databases and IT Technologies — Universidad Mariana
-🔐 Networks and Security — SENA
-🌎 Languages
+---
 
-🇨🇴 Spanish — Native
+## Certificaciones y Cursos
 
-🇬🇧 English — A1 · A2 · B1
+- AWS Academy Cloud Foundations — AWS Academy
+- Construcción de Bases de Datos con MySQL — SENA
+- Aplicaciones Android con App Inventor — Fundación Telefónica / ProFuturo
+- Desarrollo de Software, Bases de Datos y Tecnologías Informáticas — Universidad Mariana
+- Redes y Seguridad — SENA
 
-💡 Professional Interests
+---
 
-I'm particularly interested in opportunities related to:
+## Idiomas
 
-Frontend Development
-Mobile Development
-Full Stack Development
-Web Applications
-Software Engineering
-Technical Support & Technology
-Digital Transformation
-Process Optimization
+- Español — Nativo
+- Inglés — A1 · A2 · B1
 
-I enjoy analyzing problems, finding practical solutions and learning new technologies.
+---
 
-📫 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/esneyder-ibarra-rosero"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:esneyderibarra1970@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/printEsneyder"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-<p align="center"> <i>Building software, solving problems and continuously learning.</i> </p> <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p> ```
+## Intereses Profesionales
+
+Me interesan oportunidades relacionadas con:
+
+- Desarrollo Frontend
+- Desarrollo Móvil
+- Desarrollo Full Stack
+- Aplicaciones Web
+- Ingeniería de Software
+- Soporte Técnico y Tecnología
+- Transformación Digital
+- Optimización de Procesos
+
+Disfruto analizar problemas, encontrar soluciones prácticas y aprender nuevas tecnologías.
+
+---
+
+## Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esneyder-ibarra-rosero)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esneydribarra1970@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/printEsneyder)
+
+---
+
+<p align="center">
+  Construyendo software, resolviendo problemas y aprendiendo continuamente.
+</p>
