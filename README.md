@@ -8,9 +8,10 @@
 
 ---
 
-## Sobre mí
+## About me
 
-Soy Ingeniero de Sistemas de Colombia, apasionado por el desarrollo de software y la creación de soluciones digitales que resuelven problemas reales. Me enfoco en el desarrollo frontend, aplicaciones móviles, interfaces de usuario y soluciones full stack.
+Soy Ingeniero de Sistemas, interesado por el desarrollo de software y la creación de soluciones digitales que resuelven problemas reales. 
+Me enfoco en el desarrollo frontend, aplicaciones móviles, interfaces de usuario y soluciones full stack.
 
 Tengo experiencia trabajando con Flutter, Dart, React, Laravel, Firebase, JavaScript, TypeScript, Node.js y bases de datos relacionales y NoSQL.
 
